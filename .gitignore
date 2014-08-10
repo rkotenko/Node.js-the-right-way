@@ -26,3 +26,5 @@
 .idea/jsLinters/jshint.xml
 
 .idea/jsLinters/jslint.xml
+
+*.ipc
